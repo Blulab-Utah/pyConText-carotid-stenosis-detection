@@ -1,0 +1,16 @@
+ez_setup.py
+setup.py
+src/pyConTextNLP/__init__.py
+src/pyConTextNLP/helpers.py
+src/pyConTextNLP/itemData.py
+src/pyConTextNLP/pyConTextGraph.py
+src/pyConTextNLP/test1.py
+src/pyConTextNLP.egg-info/PKG-INFO
+src/pyConTextNLP.egg-info/SOURCES.txt
+src/pyConTextNLP.egg-info/dependency_links.txt
+src/pyConTextNLP.egg-info/requires.txt
+src/pyConTextNLP.egg-info/top_level.txt
+src/pyConTextNLP/deprecated/itemData.py
+src/pyConTextNLP/deprecated/pycontext.py
+src/pyConTextNLP/deprecated/pycontextNX.py
+src/pyConTextNLP/deprecated/pycontextSql.py
